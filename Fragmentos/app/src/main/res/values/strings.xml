@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Vota por tu Pelicula Favorita</string>
+    <string name="title1">Avengers Infinity War</string>
+    <string name="article1">Los Vengadores y sus aliados deben estar dispuestos a sacrificarlo todo en un intento por derrotar al poderoso Thanos antes de que su bombardeo de devastación
+        y ruina ponga fin al universo.</string>
+    <string name="title2">Avengers Endgame</string>
+    <string name="article2">El universo está en ruinas. Con la ayuda de los aliados restantes, los Vengadores se reúnen una vez más para revertir las acciones de Thanos y restablecer
+        el equilibrio en el universo.</string>
+
+    <string name="yes">Si</string>
+    <string name="no">No</string>
+    <string name="peli_1">Avengers: Infinity War</string>
+    <string name="peli_2">Avengers: EndGame</string>
+    <string name="peli_3">Ninguna</string>
+    <string name="question_article">¿Cual es tu Pelicula Favorita?</string>
+
+    <string name="open">Abrir</string>
+    <string name="cerrar">Close</string>
+
+    <string name="exception_message">Es necesario implementar la interfaz</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="open_txt">Realiza tu Votación</string>
+    <string name="total_txt">Total de Votos</string>
+    <string name="close">Cerrar</string>
+
+
+</resources>
